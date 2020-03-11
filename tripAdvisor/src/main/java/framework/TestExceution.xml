@@ -1,0 +1,9 @@
+<suite name="smokesuite">
+	<test name="testcase1">
+		<parameter name="browser" value="chrome"></parameter>
+		<parameter name="url" value="https://www.crmpro.com/"></parameter>
+		<classes>
+			<class name="Test.loginpagetest"></class>
+		</classes>
+	</test>
+</suite>
